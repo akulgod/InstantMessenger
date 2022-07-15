@@ -1,0 +1,1 @@
+web: java -jar \dist\Instant_Messenger.jar
