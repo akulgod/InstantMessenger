@@ -1,1 +1,1 @@
-web: java -jar dist/Instant_Messenger.jar
+web: ant run
